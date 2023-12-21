@@ -8,4 +8,10 @@ public class OccurancePgm {
 	 system.out.printLn("modified code");
  }
 	
+ public void test() {
+	 system.out.printLn("new method added");
+	 
+ }
+ 
+ 
 }
